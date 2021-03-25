@@ -8,4 +8,4 @@ Phase 1 - Registers, ALU, Bus, MDR
 
 Phase 2 - Memory Subsystem, Select & Encode Logic, IR, Conditional Branch, I/O
 
-Phase 3 - Control Unit
+Phase 3 - Control Unit (WIP)

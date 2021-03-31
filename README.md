@@ -1,6 +1,6 @@
 # CPU-Design-in-Verilog
 
-Building a simple RISC Computer (MINI SRC) consisting of a RISC processor, memory, and I/O
+Building a Single Bus RISC Computer (MINI SRC) consisting of a RISC processor, memory, and I/O
 
 Phase 1 - Registers, ALU, Bus, MDR
 
